@@ -1,5 +1,4 @@
 
-md <- readRDS("Source_Classification_Code.rds")
 d <- readRDS("summarySCC_PM25.rds")
 
 #========================
